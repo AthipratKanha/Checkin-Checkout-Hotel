@@ -1,3 +1,3 @@
 Hotel Management System
 
-Self Check-in & Check-out Function
+Self Check-in & Check-out Functionพ

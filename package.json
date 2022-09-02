@@ -1,0 +1,29 @@
+{
+  "name": "aqoda",
+  "version": "1.0.0",
+  "description": "Self Check-in & Check-out System",
+  "main": "main.js",
+  "scripts": {
+    "compile": "tsc",
+    "start": "node ./dist/main.js",
+    "dev": "npm run compile && npm run start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/panida1/aqoda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/panida1/aqoda/issues"
+  },
+  "homepage": "https://gitlab.com/panida1/aqoda#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.0",
+    "typescript": "^4.8.2"
+  }
+}
